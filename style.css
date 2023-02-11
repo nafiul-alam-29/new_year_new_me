@@ -44,3 +44,39 @@
   padding: 10px;
   font-weight: 400;
 }
+
+/* failur section */
+
+.pervious-year {
+  width: 1080px;
+  display: flex;
+  margin: 140px 260px;
+  align-items: center;
+  gap: 100px;
+}
+
+.year-title {
+  font-size: 40px;
+  font-weight: 700px;
+  color: #151414;
+  margin-bottom: 24px;
+}
+
+.year-description {
+  font-size: 16px;
+  font-weight: 400;
+  color: #444343;
+  margin-bottom: 16px;
+}
+
+.check img {
+  width: 1%;
+}
+
+.key-year,
+h3 {
+  display: block;
+  font-size: 16px;
+  font-weight: 400;
+  color: #8b8787;
+}
