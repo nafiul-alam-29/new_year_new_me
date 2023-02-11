@@ -53,6 +53,7 @@
   margin: 140px 260px;
   align-items: center;
   gap: 100px;
+  margin-bottom: 130px;
 }
 
 .year-title {
@@ -79,4 +80,43 @@ h3 {
   font-size: 16px;
   font-weight: 400;
   color: #8b8787;
+}
+
+/* plan section  */
+
+.plan-section {
+  width: 1200px;
+  margin: 140px 260px;
+  margin-bottom: 130px;
+}
+
+.plan-title {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700px;
+  margin-bottom: 56px;
+}
+
+.plan-items {
+  display: flex;
+  justify-content: space-between;
+  gap: 120px;
+  align-items: center;
+}
+
+.plan-item {
+  text-align: center;
+  align-items: center;
+}
+
+.plan-item h2 {
+  font-size: 30px;
+  font-weight: 800;
+  margin-bottom: 20px;
+  color: #151414;
+}
+
+.plan-item p {
+  font-size: 20px;
+  font-weight: 500;
 }
